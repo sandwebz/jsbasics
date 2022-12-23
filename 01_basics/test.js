@@ -1,1 +1,1 @@
-console.log("My first line of Javascript code");
+console.log("My first line of Javascript code is done. Yahooooooo!");
